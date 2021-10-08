@@ -10,7 +10,7 @@
     </parent>
     <groupId>org.rcfactory</groupId>
     <artifactId>rcfactory-configuration-service</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>rcfactory-configuration-service</name>
     <description>rcfactory-configuration-service</description>
     <properties>
